@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My App</string>
     <string name="hintName">Name</string>
+    <string name="btnSubmitLabel">Submit</string>
 </resources>
